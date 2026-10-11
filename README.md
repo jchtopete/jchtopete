@@ -1,16 +1,17 @@
-## Hi there 👋
+# José Christian Topete
 
-<!--
-**jchtopete/jchtopete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst and BI developer building practical tools for data, automation, and self-hosted systems.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data analysis and business intelligence.
+- Calendar interoperability with **CalCantara**, currently being prepared as a reusable software project.
+- Homelab experiments in automation, reliability, and recovery.
+
+## How I work
+
+I use AI coding assistants for implementation, exploration, and documentation. Each project should document its current status, validation, and known limitations. AI assistance does not replace code review, testing, or license checks.
+
+## Project history
+
+This account also contains earlier coursework and experiments. Their age and maintenance status should be considered before reuse.
